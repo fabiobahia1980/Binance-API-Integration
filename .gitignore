@@ -1,0 +1,22 @@
+config.py
+# Virtual environment
+venv/
+
+# VS Code workspace file
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Personal Git configuration
+.gitconfig
+
+# Temporary Python files
+*.pyo
+*.pyd
+*.pyc
