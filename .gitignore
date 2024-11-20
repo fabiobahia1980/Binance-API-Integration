@@ -19,4 +19,4 @@ Thumbs.db
 # Temporary Python files
 *.pyo
 *.pyd
-*.pyc
+*.pyc*.code-workspace
